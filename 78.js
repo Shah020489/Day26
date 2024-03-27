@@ -13,8 +13,8 @@ function squareNumber(x) {
     return x * x;
 }
 let result = squareNumber(5);
-console.log("Square the number" + result);
+console.log("Square the number  " + result);
 const square = function (x) {
     return x * x;
 };
-console.log("Square the number" + square(4));
+console.log("Square the number  " + square(4));
